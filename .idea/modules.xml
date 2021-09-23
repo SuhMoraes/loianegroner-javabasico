@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/aula05/aula.iml" filepath="$PROJECT_DIR$/aula05/aula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula09/aula09.iml" filepath="$PROJECT_DIR$/aula09/aula09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula10/aula10.iml" filepath="$PROJECT_DIR$/aula10/aula10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula11/aula11.iml" filepath="$PROJECT_DIR$/aula11/aula11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula12/aula12.iml" filepath="$PROJECT_DIR$/aula12/aula12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula13/aula13.iml" filepath="$PROJECT_DIR$/aula13/aula13.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/loianegroner-javabasico.iml" filepath="$PROJECT_DIR$/.idea/loianegroner-javabasico.iml" />
     </modules>
   </component>
