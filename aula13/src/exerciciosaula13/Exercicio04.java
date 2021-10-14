@@ -24,6 +24,6 @@ public class Exercicio04 {
 
         double result = (nota1 + nota2 + nota3 + nota4) / 4;
 
-        System.out.print("Média é de: " + result);
+        System.out.print("Média é: " + result);
     }
 }

@@ -11,10 +11,10 @@ public class Exercicio06 {
         System.out.println("Digite o Raio: ");
         double raio = sc.nextDouble();
 
-        double area;
+        double area = Math.PI * Math.pow(raio,2);
 
-        double result =
+        System.out.println("A área do círculo é: " + area);
 
-        result
+
     }
 }
