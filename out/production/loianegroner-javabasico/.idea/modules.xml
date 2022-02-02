@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aula05/aula.iml" filepath="$PROJECT_DIR$/aula05/aula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula09/aula09.iml" filepath="$PROJECT_DIR$/aula09/aula09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula10/aula10.iml" filepath="$PROJECT_DIR$/aula10/aula10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula11/aula11.iml" filepath="$PROJECT_DIR$/aula11/aula11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula12/aula12.iml" filepath="$PROJECT_DIR$/aula12/aula12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula13/aula13.iml" filepath="$PROJECT_DIR$/aula13/aula13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula14/aula14.iml" filepath="$PROJECT_DIR$/aula14/aula14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula16/aula16.iml" filepath="$PROJECT_DIR$/aula16/aula16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula17/aula17.iml" filepath="$PROJECT_DIR$/aula17/aula17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula18/aula18.iml" filepath="$PROJECT_DIR$/aula18/aula18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/loianegroner-javabasico.iml" filepath="$PROJECT_DIR$/.idea/loianegroner-javabasico.iml" />
+    </modules>
+  </component>
+</project>
