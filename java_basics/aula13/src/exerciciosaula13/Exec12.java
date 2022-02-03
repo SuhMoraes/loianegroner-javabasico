@@ -10,8 +10,7 @@ public class Exec12 {
         System.out.print("Altura: ");
         double altura = sc.nextDouble();
 
-        double result =  (72.2 * altura) - 58;
-
-        System.out.println("O seu peso ideal é: "  + result);
+        double pesoIdeal =  (72.2 * altura) - 58;
+        System.out.println("O seu peso ideal é: "  + pesoIdeal);
     }
 }

@@ -12,19 +12,18 @@ public class Exec13 {
         System.out.print("Horas trabalhadas: ");
         int horasTrabalhadas = sc.nextInt();
 
-        double salarioBruto = valorHoraTrabalhada * horasTrabalhadas * 30;
-        System.out.println("Seu salário bruto: R$" + salarioBruto);
-
+        double salarioBruto = valorHoraTrabalhada * horasTrabalhadas;
         double descIR = salarioBruto * 11 / 100;
-        System.out.println("Seu desconto Imposto de Renda (11%): R$" + descIR);
-
         double descInss = salarioBruto * 8 / 100;
-        System.out.println("Seu desconto do INSS(8%): R$" + descInss);
-
         double descSind = salarioBruto * 5 / 100;
-        System.out.println("Seus desconto do Sindicato(5%): R$" + descSind);
+        double totaDesc =descInss + descIR + descSind;
+        double salarioLiquido = salarioBruto - totaDesc;
 
-        double salarioLiquido = salarioBruto - (descInss + descIR + descSind) ;
+        System.out.println("Seu salário bruto: R$" + salarioBruto);
+        System.out.println("Seu desconto Imposto de Renda (11%): R$" + descIR);
+        System.out.println("Seu desconto do INSS(8%): R$" + descInss);
+        System.out.println("Seus desconto do Sindicato(5%): R$" + descSind);
+        System.out.println("Total de desconto: R$" + totaDesc);
         System.out.println("Salário Salário: R$" + salarioLiquido);
 
         sc.close();

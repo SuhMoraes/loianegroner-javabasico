@@ -11,9 +11,9 @@ public class Exec10 {
         System.out.print("Qual é a temperatura em Celsius: ");
         double c = sc.nextDouble();
 
-        double convertFarenheit = 32 + (32 * 9/5);
+        double convertFarenheit = (c * 9/5) + 32;
 
-        System.out.printf("A conversão de Farenheit para Celsius " + convertFarenheit + "°F");
+        System.out.printf("A temperatura de °C " + c + " é igual a " + convertFarenheit + "°F");
 
 
     }
