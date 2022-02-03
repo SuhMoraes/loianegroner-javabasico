@@ -1,4 +1,4 @@
-package exerciciosaula13;
+package java_basics.aula13.src.exerciciosaula13;
 
 import java.util.Scanner;
 
@@ -14,7 +14,6 @@ public class Exercicio03 {
         int numero2 = sc.nextInt();
 
         int result = numero1 + numero2;
-
         System.out.print("A soma de " + numero1  + " e " + numero2  + " é: " + result);
     }
 }

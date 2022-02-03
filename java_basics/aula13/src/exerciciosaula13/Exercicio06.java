@@ -1,4 +1,4 @@
-package exerciciosaula13;
+package java_basics.aula13.src.exerciciosaula13;
 
 import java.util.Scanner;
 
