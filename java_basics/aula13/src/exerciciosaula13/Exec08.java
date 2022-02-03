@@ -15,8 +15,7 @@ public class Exec08 {
         System.out.print("Quanto você trabalha por dia: ");
         double horaTrabalhada = sc.nextDouble();
 
-        double horasMes = horaTrabalhada * 20;
-        double salario = horasMes *qtoGanhaHora;
+        double salario = horaTrabalhada *qtoGanhaHora;
 
         System.out.println("Seu salário será: R$" + salario);
 
