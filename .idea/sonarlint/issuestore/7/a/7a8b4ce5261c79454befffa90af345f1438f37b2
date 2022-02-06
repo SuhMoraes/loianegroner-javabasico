@@ -1,0 +1,10 @@
+
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(’½Ô±ûÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ÿõþü
+E
+java:S1197"*Move the array designators [] to the type.(Þ›ŸÇùÿÿÿÿ
+w
+java:S2159"ZRemove this call to "equals"; comparisons between a type and an array always return false.(’¹§¢8ëžãÿë/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(šß’²
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³‹€Ðýÿÿÿÿ

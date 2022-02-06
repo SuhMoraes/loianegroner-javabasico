@@ -1,9 +1,10 @@
+package java_basics.aula14.src;
+
+
 import java.util.Scanner;
 
 public class SwitchCase {
-
     public static void main(String[] args) {
-
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Escolha um dia da semana de 1 A 7: ");
