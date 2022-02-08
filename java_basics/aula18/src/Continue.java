@@ -1,3 +1,6 @@
+package java_basics.aula18.src;
+
+
 import java.util.Scanner;
 
 public class Continue {

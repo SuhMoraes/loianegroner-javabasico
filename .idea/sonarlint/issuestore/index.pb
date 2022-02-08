@@ -63,8 +63,6 @@ R
 "java_basics/aula14/src/IfElse.java,c/c/cce12fd0d6f6ac6d75f2e6b3bcd0bbeb4283a5dd
 Q
 !java_basics/aula16/src/While.java,6/d/6d9638c390dd8ffff59e8b741c3b48963a039c35
-O
-java_basics/aula17/src/For.java,0/7/07640390bafd085855d0efb9ca3cb7688ef77baf
 Q
 !java_basics/aula17/src/For02.java,a/d/ad60312a80d98391b5c30fe515c8fac4609c8346
 Q
