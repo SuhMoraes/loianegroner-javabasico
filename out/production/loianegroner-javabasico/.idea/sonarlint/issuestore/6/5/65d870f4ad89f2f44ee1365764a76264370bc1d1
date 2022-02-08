@@ -1,0 +1,7 @@
+
+B
+java:S1264	",Replace this "for" loop with a "while" loop.(ùõö”
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(¸¥ÿ÷
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(œ€£¼üÿÿÿÿ

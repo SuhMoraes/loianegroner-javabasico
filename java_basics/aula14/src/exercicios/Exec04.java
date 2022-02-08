@@ -10,12 +10,21 @@ public class Exec04 {
         System.out.println("Digte uma letra: ");
         String letra = sc.nextLine();
 
-        char vogal[] = {'a', 'e', 'i', 'o', 'u'};
-
-        if(letra.equals(vogal)) {
-            System.out.println("É vogal");
-        } else {
-            System.out.println("Consoante");
+        switch (letra){
+            case "a":
+            case "e":
+            case "i":
+            case "o":
+            case "u":
+            case "A":
+            case "E":
+            case "I":
+            case "O":
+            case "U":
+                System.out.println("Vogal");
+                break;
+            default:
+                System.out.println("Consoante.");
         }
     }
 }

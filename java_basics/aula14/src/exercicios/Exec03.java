@@ -8,7 +8,7 @@ public class Exec03 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Digite o Genero: ");
+        System.out.println("Digite o Genero (F ou M): ");
         char genero = sc.nextLine().toUpperCase().charAt(0);
 
         switch (genero){

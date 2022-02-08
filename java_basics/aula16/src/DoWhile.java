@@ -1,3 +1,6 @@
+package java_basics.aula16.src;
+
+
 public class DoWhile {
 
     public static void main (String[] args){
@@ -18,6 +21,7 @@ public class DoWhile {
             i++;
             System.out.println("Valor de i: " + i);
         } while (i < 25 );
+        System.out.println(i);
     }
 }
 

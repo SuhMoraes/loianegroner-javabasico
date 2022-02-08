@@ -1,0 +1,13 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜Œø–şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®Ø…©ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÆĞºËûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÏéÅèøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Œñœ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ò‚÷‚øÿÿÿÿ8ï¡÷ùë/
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8àüøùë/
+^
+java:S2184"HCast one of the operands of this multiplication operation to a "double".(ô‹¥ô
+]
+java:S2184"BCast one of the operands of this addition operation to a "double".(®®ìÅûÿÿÿÿ

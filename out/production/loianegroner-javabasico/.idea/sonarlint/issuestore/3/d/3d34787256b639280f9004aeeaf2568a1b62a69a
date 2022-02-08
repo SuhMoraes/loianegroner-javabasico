@@ -1,0 +1,14 @@
+
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(€ωθ’ωÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(Ε–°Κόÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿΥ‰τϊÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(‚•Λ‰ϋÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿΥ‰τϊÿÿÿÿ
+2
+java:S1116"Remove this empty statement.(ο§Δ©
+N	java:S106"9Replace this use of System.out or System.err by a logger.(γξ²‰
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ή¦¤ψÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ιÿψÿÿÿÿ

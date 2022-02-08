@@ -14,9 +14,9 @@ public class Exec01 {
         double num2 = sc.nextDouble();
 
         if (num1 > num2 ){
-            System.out.println("O maior número é : " +num1);
+            System.out.println("O num1 é maior: " +num1);
         } else {
-            System.out.println("O maior número é: " +num2);
+            System.out.println("O num2 é maior: " +num2);
         }
 
     }
