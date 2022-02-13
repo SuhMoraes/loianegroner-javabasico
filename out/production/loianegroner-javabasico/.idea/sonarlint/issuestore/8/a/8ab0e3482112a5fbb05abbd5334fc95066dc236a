@@ -1,0 +1,11 @@
+
+S
+java:S1854"8Remove this useless assignment to local variable "nota".(¹çî÷ùÿÿÿÿ
+D
+java:S1481")Remove this unused "nota" local variable.(¹çî÷ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ƒıĞ¿
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±úŒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¥ˆş™üÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(Ã‰ŸÄ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ

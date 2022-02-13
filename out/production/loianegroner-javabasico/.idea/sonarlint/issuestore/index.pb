@@ -75,3 +75,27 @@ S
 -java_basics/aula14/src/exercicios/Exec06.java,3/d/3d34787256b639280f9004aeeaf2568a1b62a69a
 ]
 -java_basics/aula14/src/exercicios/Exec05.java,6/e/6e482064326e470e1d840274765bbee39feba910
+R
+"java_basics/aula20/Matrizes01.java,7/8/78eb1fa2eb2df223591c91fc3e98e30f8039eb43
+M
+java_basics/aula24/Carro.java,2/2/220ca8b84140961677f3e82ff6905f15b2b03dc3
+Z
+*java_basics/aula24/exercicios/Lampada.java,e/d/ed99076222a02d6e3c8da20a006ac55cba49c71c
+_
+/java_basics/aula24/exercicios/TesteLampada.java,8/b/8b46c5ae262cbd79bda04889c34818a8993addd9
+M
+java_basics/aula25/Carro.java,8/4/84f1dcbbcbde520c83d048c5b036d885d96bf596
+T
+$java_basics/aula25/TesteCarro25.java,e/0/e0360358478c1e08483698ae21ead62dc3ef7c49
+O
+java_basics/aula26/Carro26.java,e/f/efe25f236ef17edef4ad3d484602e3a74bc48ccc
+O
+java_basics/aula21/ForEach.java,8/a/8ab0e3482112a5fbb05abbd5334fc95066dc236a
+R
+"java_basics/aula24/TesteCarro.java,3/1/31e8727ebd602fdcbd4b0ffac63b1c740d58544d
+T
+$java_basics/aula26/TesteCarro26.java,9/9/994e57335df2fc11bcd1d20f6290ff52cfc53848
+S
+#java_basics/aula27/CarroAula27.java,2/c/2c3bf012294bcd5abb055a13fd3bbf2e9b8cbb66
+X
+(java_basics/aula27/TesteCarroAula27.java,2/e/2ecf4d393383fc3213d2f663193aef90a8a8c614

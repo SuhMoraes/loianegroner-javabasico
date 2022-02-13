@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="630e59ae-4d01-4880-80d0-15748911bd34" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/2/2/220ca8b84140961677f3e82ff6905f15b2b03dc3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/3/1/31e8727ebd602fdcbd4b0ffac63b1c740d58544d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/7/8/78eb1fa2eb2df223591c91fc3e98e30f8039eb43" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/8/a/8ab0e3482112a5fbb05abbd5334fc95066dc236a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/8/b/8b46c5ae262cbd79bda04889c34818a8993addd9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/e/d/ed99076222a02d6e3c8da20a006ac55cba49c71c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Carro26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TesteCarro26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula26.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula27/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula27/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula27/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula27/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula27/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula27/CarroAula27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula27/TesteCarroAula27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula27/aula26.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula25/TesteCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../aula25/TesteCarro25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/loianegroner-javabasico/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/loianegroner-javabasico/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/loianegroner-javabasico/java_basics/aula25/TesteCarro.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24vIqF6WBws051Ywu3sDIovILxk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TesteCarro26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_basics.aula26.TesteCarro26" />
+      <module name="aula26" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_basics.aula26.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesteCarro26" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="630e59ae-4d01-4880-80d0-15748911bd34" name="Changes" comment="" />
+      <created>1644504825022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644504825022</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
