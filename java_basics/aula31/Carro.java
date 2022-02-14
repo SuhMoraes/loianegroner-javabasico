@@ -1,11 +1,11 @@
 package java_basics.aula31;
 
- class Carro {
-     String marca;
-    String modelo;
-    int numPassageiros;
-    double capCombustivel;
-    double consumoCombustível;
+ public class Carro {
+    private String marca;
+    private String modelo;
+    protected int numPassageiros;
+    protected double capCombustivel;
+    protected double consumoCombustível;
 
 
     public Carro() {
