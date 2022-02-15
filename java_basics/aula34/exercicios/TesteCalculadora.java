@@ -29,5 +29,7 @@ public class TesteCalculadora {
 //        System.out.println(potencia);
         imprimirTela(Calculadora.potencia(2, 8));
 
+        imprimirTela(Calculadora.fatorial(5));
+
     }
 }
