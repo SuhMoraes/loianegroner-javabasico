@@ -75,7 +75,7 @@ public class TesteCurso {
 
         curso.setAlunos(alunos);
 
-        System.out.println(curso.obter);
+        // System.out.println(curso.obter);
 
 
     }
